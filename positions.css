@@ -1,0 +1,6 @@
+body{height: 200vh;}
+
+div{width:200px; height: 200px; position: absolute;}
+#first-div {background-color: rgb(255, 229, 182); position: static; }
+#second-div {background-color: blue; top: 20px; left: 20px; position: sticky;}
+#third-div {background-color: rosybrown; width: 100px; height: 100px; top: 0; left: 0;}
